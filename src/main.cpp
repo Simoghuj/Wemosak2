@@ -1,5 +1,5 @@
-#include <arduino.h>
-#include "wemos.h"
+#include <Arduino.h>
+#include <wemos.h>
 
 wemos esp;
 
