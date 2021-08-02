@@ -22,6 +22,6 @@ class wemos
         void setup();
         void lcd();
 
-}
+};
 
  #endif
