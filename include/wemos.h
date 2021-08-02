@@ -11,6 +11,14 @@ class wemos
 
     public:
 
+        wemos(){
+
+        };
+
+        ~wemos(){
+
+        };
+
         void setup();
         void lcd();
 
