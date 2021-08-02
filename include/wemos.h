@@ -20,7 +20,7 @@ class wemos
         };
 
         void setup();
-        void lcd();
+        void oled();
 
 };
 

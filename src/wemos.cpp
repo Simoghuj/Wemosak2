@@ -4,6 +4,6 @@ void wemos::setup(){
     
 }
 
-void wemos::lcd(){
-
+void wemos::oled(){
+    Serial.print("hello");
 }
