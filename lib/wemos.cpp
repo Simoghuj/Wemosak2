@@ -1,6 +1,9 @@
 #include "wemos.h"
 
+void wemos::setup(){
+    Serial.begin(9600);
+}
 
-wemos::lcd(){
+void wemos::lcd(){
 
 }
